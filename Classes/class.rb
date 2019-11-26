@@ -13,7 +13,9 @@ class Dog
       puts "I am of #{@breed} breed and my name is #{@name}"  
     end  
   end  
-  
+
+#createse a reference variable 
+#pointer that we can us the dot notation to access on the variables we create
 d = Dog.new('Golden', 'Rebel');
 # make an object  
 # Objects are created on the heap  
