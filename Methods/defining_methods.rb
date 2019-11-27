@@ -23,3 +23,8 @@ puts "Name: #{stefani_name}, Age: #{stefani_age}, Occupation:
 #{stefani_occupation}"
  
 # => "Name: Stefani, Age: 49, Occupation: Firefighter"
+
+letters = ["b","a","c"]
+puts "The first letter in the alphabet is: #{letters[1]}"
+puts "The second letter in the alphabet is: #{letters[0]}"
+puts "The third letter in the alphabet is: #{letters[2]}"
